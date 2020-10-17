@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
+
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/card.css');
+@import url('components/banner.css');
+
+body {
+font-family: 'Roboto', sans-serif;
+font-size:14px;
+margin:0px;
+}
+
+h1{
+font-family: 'Lato', sans-serif;
+font-weight: bold;
+padding-bottom: 60px;
+font-size: 70px;
+}
+
+h2{
+font-family: 'Lato', sans-serif;
+font-weight: bold;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+a{
+text-decoration: none;
+color: black;
+font-size: 15px;
+}
+
+
+h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.title-margin {
+	margin-bottom: 50px
+}
+
+.explanation-light{
+	padding-left: 20px;
+	font-weight: 10px;
+	text-align: center;
+	text-align: justify;
+}
+
+p{
+	font-weight: lighter;
+	font-size: 15px;
+}

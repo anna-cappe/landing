@@ -1,0 +1,20 @@
+.btn-blue{
+	background-color: #042957;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	margin:30px 0px 30px 0px;
+}
+
+.btn-grey{
+	background-color: grey;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	margin:30px 0px 30px 0px;
+
+}
